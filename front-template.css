@@ -35,9 +35,9 @@ body {
 }
 
 header .title-area {
-	background: #161a23;
-	background: -moz-linear-gradient(top,  #161a23 0%, #212632 100%);
-	background: -webkit-linear-gradient(top,  #161a23 0%,#212632 100%);
+	background: #673ab7;
+	background: -moz-linear-gradient(top,  #673ab7 0%, #6c47ae 100%);
+	background: -webkit-linear-gradient(top,  #161a23 0%,#6c47ae 100%);
 	background: linear-gradient(to bottom,  #161a23 0%,#212632 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#161a23', endColorstr='#212632',GradientType=0 );
 	

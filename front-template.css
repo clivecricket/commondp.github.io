@@ -35,13 +35,13 @@ body {
 }
 
 header .title-area {
-	background: #673ab7;
+	background: ##308a2e;
 	background: -moz-linear-gradient(top,  #6200ea 0%, #5203be 100%);
 	background: -webkit-linear-gradient(top,  #6200ea 0%,#5203be 100%);
-	background: linear-gradient(to bottom,  #6200ea 0%,#5203be 100%);
+	background: linear-gradient(to bottom,  ##308a2e 0%,##308a2e 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#161a23', endColorstr='#212632',GradientType=0 );
 	
-	border-bottom:solid 2px #1a027d;
+	border-bottom:solid 2px #0d410c;
 	padding:10px 0px;
 	margin-bottom:10px;
 }

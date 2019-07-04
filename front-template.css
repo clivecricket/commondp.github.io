@@ -35,13 +35,13 @@ body {
 }
 
 header .title-area {
-	background: ##308a2e;
-	background: -moz-linear-gradient(top,  #308a2e 0%, #308a2e 100%);
-	background: -webkit-linear-gradient(top,  #308a2e 0%,#308a2e 100%);
-	background: linear-gradient(to bottom,  ##308a2e 0%,##308a2e 100%);
+	background: ##009270;
+	background: -moz-linear-gradient(top,  #009270 0%, #009270 100%);
+	background: -webkit-linear-gradient(top,  #009270 0%,#009270 100%);
+	background: linear-gradient(to bottom,  #009270 0%,#009270 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#161a23', endColorstr='#212632',GradientType=0 );
 	
-	border-bottom:solid 2px #0d410c;
+	border-bottom:solid 2px #007b5e;
 	padding:10px 0px;
 	margin-bottom:10px;
 }

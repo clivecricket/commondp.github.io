@@ -151,6 +151,28 @@ footer {
 	margin-top: -87px;
 }
 
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #cccccc4d;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {  background-color:#1f0056;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: white;
+}
+
 h1 {
 	background: #1d1d1d;
     padding: 10px;

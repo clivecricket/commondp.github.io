@@ -51,7 +51,7 @@ header .title-area {
     background: -o-linear-gradient(90deg,#009270 90%,#007b5e 10%);
     background: -ms-linear-gradient(90deg,#009270 90%,#007b5e 10%);
     background: linear-gradient(90deg,#009270 90%,#007b5e 10%);
-    padding: 10px; border:#effbf9 solid;}
+    padding: 10px; border:#effbf9 1px solid;}
 
 header .logo {
 	width:150px

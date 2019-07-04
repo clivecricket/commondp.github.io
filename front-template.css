@@ -159,7 +159,7 @@ footer {
 
 #customers td, #customers th {
   border: 1px solid #ddd;
-  padding: 8px; font-weight:bold;
+  padding: 8px; font-weight:bold; font-weight: 900;
 }
 
 #customers tr:nth-child(even){background-color: #cccccc4d;}

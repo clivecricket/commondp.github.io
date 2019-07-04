@@ -173,12 +173,12 @@ h2 {
 
 .panel-primary {
 	background:#effbf9;
-	border-color:#ffc000;
+	border-color:#00ff89;
 }
 
 .panel-primary>.panel-heading {
 	background:#fbf7ef;
-	border-color:#ffc000;
+	border-color:#00ff89;
 	color:#bc0303;
 	text-transform:uppercase;
 	font-weight:bold;

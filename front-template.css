@@ -45,7 +45,7 @@ header .title-area {
 	padding:15px;
 	margin-bottom:10px;
 }
-.menubar {     background: #31942e;
+.title {     background: #31942e;
     background: -moz-linear-gradient(90deg,#009270 0%,#a015bf 100%);
     background: -webkit-linear-gradient(90deg,#009270 0%,#a015bf 100%);
     background: -o-linear-gradient(90deg,#009270 0%,#a015bf 100%);
@@ -72,7 +72,7 @@ header .logo {
 	height:30px;
 }
 
-.navbar-nav .title {
+.navbar-nav .{
 	display:block;
 }
 
